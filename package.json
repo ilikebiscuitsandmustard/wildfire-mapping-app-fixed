@@ -1,12 +1,10 @@
-
 {
   "name": "wildfire-mapping-app",
   "version": "1.0.0",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build --root .",
-  "preview": "vite preview"
-}
+    "dev": "vite",
+    "build": "vite build --root .",
+    "preview": "vite preview"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
